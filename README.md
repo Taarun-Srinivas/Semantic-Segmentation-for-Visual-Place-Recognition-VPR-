@@ -17,15 +17,18 @@ the main code or rather, the starting point can be found at `stego_data_gen.py`.
 <img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/95683482-b9a2-4344-abad-48d021cf1016" width="250" height = "250" alt="clear_night_input">
 <img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/a67697b1-9598-4ab3-b787-1446e7db82c8" width="250" height = "250" alt="clear_night_output">
 </div>
+<br></br>
 
 - Clear Sunset
 <div align = "center">
 <img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/f50786f0-60d8-49bf-9918-974a73961e96" width="250" height = "250" alt="clear_sunset_input">
 <img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/a6aa0a11-dc98-4756-b0a2-aaae106749aa" width="250" height = "250" alt="clear_sunset_output">
 </div>
+<br></br>
 
 - Rain Noon
 <div align = "center">
 <img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/39349aae-fae6-4f80-b50e-dbe58636e0d7" width="250" height = "250" alt="rain_noon_input">
 <img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/377d5ab4-bdf9-49d5-b8f3-4eb3e7767a06" width="250" height = "250" alt="rain_noon_output">
 </div>
+<br></br>
