@@ -6,22 +6,23 @@ The main idea of this work is to generate semantic data for training an autonomo
 # Visualization
  - Clear Night 
 <div align = "center">
-<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/95683482-b9a2-4344-abad-48d021cf1016" width="250" height = "250" alt="clear_night_input">
-<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/a67697b1-9598-4ab3-b787-1446e7db82c8" width="250" height = "250" alt="clear_night_output">
+<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/890ffeb5-d99c-496c-aa6c-79a9995838b9" width="250" height = "250" alt="clear_night_input">
+<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/d981d554-62f8-413d-b7b2-6d369e2f8e23" width="250" height = "250" alt="clear_night_output">
 </div>
 <br></br>
 
+
 - Clear Sunset
 <div align = "center">
-<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/f50786f0-60d8-49bf-9918-974a73961e96" width="250" height = "250" alt="clear_sunset_input">
-<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/a6aa0a11-dc98-4756-b0a2-aaae106749aa" width="250" height = "250" alt="clear_sunset_output">
+<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/fba41801-e38a-40e3-aabd-edac805f5caa" width="250" height = "250" alt="clear_sunset_input">
+<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/b98d0a64-3041-49a5-8b89-97272146a7c2" width="250" height = "250" alt="clear_sunset_output">
 </div>
 <br></br>
 
 - Rain Noon
 <div align = "center">
-<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/39349aae-fae6-4f80-b50e-dbe58636e0d7" width="250" height = "250" alt="rain_noon_input">
-<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/377d5ab4-bdf9-49d5-b8f3-4eb3e7767a06" width="250" height = "250" alt="rain_noon_output">
+<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/c21f3b97-2aeb-4612-aeab-2b7ec36431ac" width="250" height = "250" alt="rain_noon_input">
+<img src="https://github.com/Taarun-Srinivas/Semantic-Segmentation-for-Visual-Place-Recognition-VPR-/assets/52371207/7705f77f-5a57-4982-9dbd-5ceda5c4d6c8" width="250" height = "250" alt="rain_noon_output">
 </div>
 <br></br>
 
