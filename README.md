@@ -1,7 +1,12 @@
 # Semantic-Segmentation-for-Visual-Place-Recognition-VPR-
 
 # Idea
-The main idea of this work is to generate semantic data for training an autonomous car, detect and have a good understanding of it's environment. In this work, I have generated semantic data for different seasonal modalities. These seasonal modalities are clear night, clear sunset, rain noon, and wet cloudy weather. This algorithm is built on top of [STEGO](https://github.com/mhamilton723/STEGO) algorithm. The objective of this work is to use this semantic data to achieve [Visual Place Recognition (VPR)](https://arxiv.org/abs/2303.03281)
+The main idea of this work is to generate semantic data for training an autonomous car, detect and have a good understanding of it's environment. In this work, I have generated semantic data for different seasonal modalities. These seasonal modalities are clear night, clear sunset, rain noon, and wet cloudy weather. This algorithm is built on top of [STEGO](https://github.com/mhamilton723/STEGO) algorithm. The objective of this work is to use this semantic data to train or evaluate [Visual Place Recognition (VPR)](https://arxiv.org/abs/2303.03281) models.
+
+# requirements
+- Python - 3.9
+- OpenCV - 4.6.0
+- Pytorch - 1.13.1 + cu116
 
 # Visualization
  - Clear Night 
@@ -26,11 +31,5 @@ The main idea of this work is to generate semantic data for training an autonomo
 </div>
 <br></br>
 
-# requirements
-- Python - 3.9
-- OpenCV - 4.6.0
-- Pytorch - 1.13.1 + cu116
-
-# Workflow
-the main code or rather, the starting point can be found at `stego_data_gen.py`. This file saves the semantic data in an output folder. The `video_writer.py` file generates the visualization similar to the one given below.
-
+# Acknowledgement
+I wish to extend my utmost gratitude for the invaluable support and guidance offered by the AI4CE lab at NYU Tandon. I would like to express special appreciation to Professor Chen Feng for his unwavering support and insightful advice throughout the course of this project. My sincere thanks go to Mr. Chao Chen for serving as a mentor and providing guidance in the successful completion of this endeavor.  
