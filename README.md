@@ -32,4 +32,4 @@ The main idea of this work is to generate semantic data for training an autonomo
 <br></br>
 
 # Acknowledgement
-I wish to extend my utmost gratitude for the invaluable support and guidance offered by the AI4CE lab at NYU Tandon. I would like to express special appreciation to Professor Chen Feng for his unwavering support and insightful advice throughout the course of this project. My sincere thanks go to Mr. Chao Chen for serving as a mentor and providing guidance in the successful completion of this endeavor.  
+I wish to extend my utmost gratitude for the invaluable support and guidance offered by the AI4CE lab at NYU Tandon. I would like to express special appreciation to Professor Chen Feng for his unwavering support and insightful advice throughout the course of this project. My sincere thanks go to Mr. Chao Chen for mentoring and providing guidance in the successful completion of this endeavor.  
